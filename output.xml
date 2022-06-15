@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.1.3 (Python 3.7.5 on win32)" generated="20220216 19:22:16.728" rpa="false" schemaversion="2">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\andre\.vscode\extensions\robocorp.robotframework-lsp-0.40.1\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Open intranet robocorp">
+<msg timestamp="20220216 19:22:17.991" level="FAIL">No keyword with name 'Open intranet robocorp' found.</msg>
+<status status="FAIL" starttime="20220216 19:22:17.991" endtime="20220216 19:22:17.992"/>
+</kw>
+<kw name="Log in">
+<status status="NOT RUN" starttime="20220216 19:22:17.994" endtime="20220216 19:22:17.994"/>
+</kw>
+<kw name="Download the excel file">
+<status status="NOT RUN" starttime="20220216 19:22:17.995" endtime="20220216 19:22:17.996"/>
+</kw>
+<kw name="Fill and submit the form for one person">
+<status status="NOT RUN" starttime="20220216 19:22:17.997" endtime="20220216 19:22:17.997"/>
+</kw>
+<status status="PASS" starttime="20220216 19:22:16.790" endtime="20220216 19:22:31.988"/>
+</kw>
+<status status="PASS" starttime="20220216 19:22:16.789" endtime="20220216 19:22:31.988"/>
+</test>
+<status status="PASS" starttime="20220216 19:22:16.731" endtime="20220216 19:22:31.990"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
